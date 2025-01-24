@@ -38,7 +38,7 @@ try:
          if iterations == number_of_students:
                 print ("Thank you for entering the student's information!")
                 break
-print ("Ending Program")
+    print ("Ending Program")
 except KeyboardInterrupt:
     print("Exiting Program")
 except Exception:
